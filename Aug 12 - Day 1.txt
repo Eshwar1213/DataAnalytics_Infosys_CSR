@@ -1,0 +1,113 @@
+Aug 12 - Day 1
+
+--------------------------------------------------------------------------------------------------
+Introduction to Data analytics
+
+1) Data - Collection of information
+
+2) Types of Data
+	Structure Data - rows & columns - Schema Define
+	Unstructure Data - Mp3, Mp4, image
+	Semi Structure Data - Partially Structure
+
+
+Note :
+UID - alphanumeric or numeric is a important point
+Transaction convert USD - INR  (Maintain)
+Data convertion
+
+
+3) Data Storage:
+	Database
+	File Store
+
+Databases
+	Relational Database  | Transactional Database | Row based Database
+	Non Relational Database 
+	Graph Database 		(LinkedIn, Instagram)
+	key value Database		(Weather Application)
+	Document Database		(Browser - Document DB {.pdf})
+
+----------------------------------------------------------------------------------------------------
+
+Data injection 
+	Tools : Flume, Kafka
+	Volume, Variety, Velocity  (3V)
+
+2. Sources of Data
+	1. Text
+	2. CSV
+	3. Database
+	4. Excel
+
+3. Data Lake
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------
+
+Data Preparation / Data Clean
+Data Transform
+Data Load
+Visualize
+Analyse
+
+------------------------------------------------------------------------------------------------------
+
+Types of Data 
+	1. Batch Data 		(100 100 100 98)
+	2. Streaming Data	(live data)
+	3. Dead Data		(Dead database to retrieve data)
+
+Types of Chart
+	1. Column Chart
+	2. Bar Chart
+	3. Pie Chart
+
+----------------------------------------------------------------------------------------------------
+
+Cloud
+	On Demand Delivery of IT Resources (Compute, Networking, Load Balancing, Databases, Storage, etc.) Over the internet with pay as you go pricing model.
+
+Cloud Providers
+	1. Amazon Web Services
+	2. Google Cloud Platform 
+	3. Mirosoft Azure
+	4. IBM CLoud
+	5. Alibaba Cloud
+	6. Oracle
+
+Cloud Types
+	1. Public Cloud - any one can use the cloud and create account
+	2. Private Cloud - Each company only provides cloud for their employees (eg. IRCTC)
+	3. Hybrid Cloud - Anna University (own use private cloud & result on public cloud)
+	4. Community Cloud - Community group of people sharing and make it private.(in india Apollo hospital cloud)
+	
+Cloud Segments
+	1. IaaS - Infrastructure as a Service
+	2. PaaS - Platform as a Service
+	3. SaaS - Software as a Service
+	4. SaaS - Storage as a Service 
+	5. DaaS - Database as a Service
+	6. LBaaS - Load Balancer as a Service  - HA Proxy
+	7. IaaS (Only AWS) - Identity as a Service
+
+Global Infrastructure
+	1. Zone
+	2. Region
+	3. Edge Locations
+
+Factor to choose a Region
+	1. Target user base
+	2. Cost
+	3. Service Availability
+	4. Complaints
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Google Meet code - ZOPMQTAMIP
+

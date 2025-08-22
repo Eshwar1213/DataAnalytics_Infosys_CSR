@@ -1,0 +1,20 @@
+Aug 13 - Day 2
+
+--------------------------------------------------------------------------------------------------
+
+File Format:
+	1. CSV
+	2. AVRO
+	3. ORQ (Optimized row column)
+	4. PARAQUET
+	5. PTIS
+
+Job Roles 
+	1. Data Scientist
+	2. Business Intelligence Analyst
+	3. Data Engineer
+	4. Business Analyst
+	5. Database Administrative
+
+----------------------------------------------------------------------------------------------------
+
